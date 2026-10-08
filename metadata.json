@@ -1,0 +1,6 @@
+{
+  "name": "TTN by Akash",
+  "description": "Text to Notebook — Minimal, professional text-to-handwriting page composition and document editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
